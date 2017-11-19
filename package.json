@@ -7,7 +7,9 @@
   "main": "bundle.js",
   "dependencies": {
     "babel-core": "^6.26.0",
+    "dotenv": "^4.0.0",
     "express": "^4.16.2",
+    "postgraphql": "^3.5.1",
     "react": "^16.1.1",
     "react-dom": "^16.1.1"
   },
